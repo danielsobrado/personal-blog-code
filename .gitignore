@@ -7,3 +7,4 @@ notebooks/.ipynb_checkpoints/Numpy Basics-checkpoint.ipynb
 notebooks/.ipynb_checkpoints/Scrapying with Scrapy-checkpoint.ipynb
 notebooks/.ipynb_checkpoints/Probabilistic Distributions-checkpoint.ipynb
 notebooks/.ipynb_checkpoints/Entropy, Cross-Entropy and Kullback Leibler Divergence-checkpoint.ipynb
+*.json
